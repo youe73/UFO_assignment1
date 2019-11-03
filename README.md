@@ -1,1 +1,28 @@
 # UFO_assignment1
+
+1. Initiating the problem. 
+The problemstatement is to find the hidden message concealed in an image provided in lecture.
+
+2. what is the exact meaning of "the least significant bit of the red values is 
+substitued with a bit from the message"?? Interpreted as find the red values from the pixels 
+to extract the hidden bit value. 
+
+3. The image is saved as a png file in the same folder as this python script.
+
+4. After researching in RGB, my first intention was to find out how to get the red values from the image.
+5. Color Red in RGB is (255,0,0), though Im am not sure if there could be more combination of RGB display color red.
+6. Reflecting upon the problemstatement stating "the least significant bit of the red value" 
+could mean a lighter or deeper color red?
+7. Thinking of finding the possible combination of color red in RGB. (must be many)
+8. Attempt to list out the pixels where color red is used.   
+
+9 after finding more information through searching it became apparent that further research was needed regarding
+stenography and the meaning of the least significant bit. It means the 3 bits in the right. The research gave me opportunity 
+to borrow some usefull code to extract the least significant bits and convert them to binary.
+
+10. Conclusion
+Reflection: Perform a better search in beginning and make a clear working process than going in circles and wasting time
+figure out unrelevant issues. Finding the red part was not a success, it made me realize my lack of working with colors and pixels.
+There are great techs for manipulating RGB, but an overall deeper understanding is required to really grasp the image processing.
+ 
+
