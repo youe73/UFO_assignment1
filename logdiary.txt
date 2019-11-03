@@ -1,0 +1,10 @@
+1. 8.45 - Preliminary stage. Trying to understand the core objectives of the assignment.
+2. 9.19 - Brainstorming - searching for technical issues to download an inspect the image in python
+3. 9.51 - Coding on the python script (steganograhy.py) - attempt to display the image in color RGB to discover red values.
+4. 10.40 - Struggling with the array/tuple format and discovering the red values
+5. 11.20 - There is no color matching RGB(255,0,0) so it must be different RGB combinations for red colors (light/dark...etc)
+6. 12.00 - Struggling with the match and red color
+7. 12.48 - Still attempting to find how to match red color
+8. 13.07 - Very late in my process I found a site which explains the steganograhy and the meaning lest significant bit
+9. 13.26 - Least significant bit in steganography means the 3 bits (to the right)
+10. 14.05 - Using coding inspired from the sites. Did not yet succed to find the red values.  
